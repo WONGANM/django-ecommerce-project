@@ -13,7 +13,7 @@ cryptography==41.0.5
 Django==3.2.22
 django-js-asset==1.2.2
 django-mptt==0.11.0
-idna==2.10
+idna==3.7
 iniconfig==1.1.1
 isort==5.7.0
 mypy-extensions==0.4.3
